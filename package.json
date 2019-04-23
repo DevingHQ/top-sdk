@@ -1,6 +1,6 @@
 {
   "name": "@deving/top-sdk",
-  "author": "xuteng.xt@alibaba-inc.com",
+  "author": "mengjq08@163.com",
   "version": "2.0.5",
   "description": "Taobao Open API & Message Client.",
   "keywords": [
@@ -22,7 +22,7 @@
     "node": ">=0.8"
   },
   "publishConfig": {
-    "registry": "http://registry.npm.alibaba-inc.com"
+    "registry": "http://registry.npmjs.org"
   },
   "directories": {
     "example": "examples",
